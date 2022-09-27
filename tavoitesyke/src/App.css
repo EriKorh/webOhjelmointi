@@ -1,0 +1,19 @@
+.App {
+  text-align: left;
+  padding: 1em;
+}
+
+div {
+  margin-bottom: 10px;
+}
+
+#box {
+  width: 190px;
+  border: 1px solid black;
+  height: 30px;
+}
+
+button {
+  color: white;
+  background-color: blue;
+}
